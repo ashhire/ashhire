@@ -34,7 +34,52 @@ Build impactful AI/Data products and grow into a skilled Data Scientist.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white)                                                                                                                                       
+
+## 🖥️ Terminal
+
+```bash
+$ whoami
+Ash Hire
+
+$ education
+Computer Engineering @ GEC Bharuch
+
+$ current_role
+Data Science Apprentice
+
+$ focus
+Python | Data Science | Machine Learning | DSA
+
+$ goal
+Become a Data Scientist
+```
+
+## 🎮 Character Progress
+
+```text
+Class: Data Science Apprentice
+Level: 20
+
+Skills
+🐍 Python            ██████░░░░
+☕ Java              █████░░░░░
+📊 Data Science      ███░░░░░░░
+🤖 Machine Learning  █░░░░░░░░░
+
+Current Quest
+☐ Build 5 Data Science Projects
+☐ Learn Machine Learning Fundamentals
+☐ Contribute to Open Source
+☐ Land First Internship
+
+Boss Fight
+👹 Consistency
+
+Reward
+🏆 Data Scientist
+```
+
 
 ## 🎯 Current Focus
 
